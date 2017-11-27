@@ -27,7 +27,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server1.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server1.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -40,7 +40,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server2.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server2.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -53,7 +53,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server3.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server3.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -66,7 +66,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server4.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server4.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -79,7 +79,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server5.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server5.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -93,7 +93,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today1.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today1.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -106,7 +106,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today2.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today2.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -119,7 +119,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today3.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today3.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -132,7 +132,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today4.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today4.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -145,7 +145,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today5.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today5.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -158,7 +158,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today6.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today6.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -171,7 +171,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today7.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today7.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -184,7 +184,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today8.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today8.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -197,7 +197,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today9.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today9.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -210,7 +210,7 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today10.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today10.m3u</externallink>
    
 	</item>
 </streaminginfo>
@@ -219,12 +219,12 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR yellow]r 11[/COLOR]</title>
+	<title>Bliss Tv - [COLOR yellow]r 011[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today11.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today11.m3u</externallink>
    
 	</item>
 </streaminginfo>
