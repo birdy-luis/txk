@@ -84,4 +84,152 @@
 	</item>
 </streaminginfo>
 
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r1[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today1.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r2[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today2.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r3[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today3.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r4[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today4.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r5[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today5.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r6[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today6.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r7[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today7.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r8[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today8.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r9[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today9.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r 10[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today10.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]r 11[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://mullafabz.net.rw/HOST/LiveTV/IPTVs/today11.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+
+
+
 </streamingInfos>
