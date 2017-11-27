@@ -1,0 +1,87 @@
+<streamingInfos>
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>[COLOR yellow][B] All playlists[/B][/COLOR]</title>
+<link>ignore</link>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo> 
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - Local Channels & Radio</title>
+<link>ignore</link>
+<fanart>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</fanart>
+<thumbnail>http://s3.amazonaws.com/rv-wp/directvdealscom/uploads/2014/08/breaking-news-screen.png</thumbnail>
+   <externallink>http://www.radiosargentina.com.ar/TVUS.m3u$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]1[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server1.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]2[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server2.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]3[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server3.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]4[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server4.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]5[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://brettusbuilds.com/FTFA/SERVERS/server5.m3u$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+</streamingInfos>
